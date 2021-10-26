@@ -1,4 +1,4 @@
-# hello-world
+# vuetify-crud-demo
 
 ## Project setup
 ```
